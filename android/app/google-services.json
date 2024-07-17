@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164538955460",
+    "project_id": "exercisedb-69ecc",
+    "storage_bucket": "exercisedb-69ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164538955460:android:846d71c0042b925685fb91",
+        "android_client_info": {
+          "package_name": "com.example.fitpro_free"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5_bizrIdvksPTNlodH7zNRsFtS85wNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
